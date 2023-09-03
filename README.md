@@ -1,2 +1,2 @@
-# DS3001Assignments
+# Assignment Repo for DS 3001
 
